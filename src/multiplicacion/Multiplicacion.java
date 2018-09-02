@@ -26,6 +26,10 @@ public class Multiplicacion {
     
     Scanner entrada = new Scanner(System.in);
     
+    // Creo tres variables de tipo entero
+    
+    int numero1, numero2, resultado;
+    
   }
   
 }
