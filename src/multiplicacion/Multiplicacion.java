@@ -5,6 +5,10 @@
  */
 package multiplicacion;
 
+// Importo el paquete java.util, para poder utilizar la clase Scanner
+
+import java.util.*;
+
 /**Realiza un programa que pida dos números 
  * y que luego muestre el resultado de su multiplicación
  *
@@ -17,6 +21,8 @@ public class Multiplicacion {
    */
   public static void main(String[] args) {
     // TODO code application logic here
+    
+    
   }
   
 }
