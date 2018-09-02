@@ -30,6 +30,10 @@ public class Multiplicacion {
     
     int numero1, numero2, resultado;
     
+    // Pido los número por teclado
+    
+    System.out.println("Introduce los números para multiplicar: ");
+    
   }
   
 }
