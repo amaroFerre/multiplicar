@@ -32,9 +32,11 @@ public class Multiplicacion {
     
     // Pido los número por teclado
     
-    System.out.println("Introduce los números para multiplicar: ");
+    System.out.println("Introduce un número: ");
     
     numero1 = entrada.nextInt();
+    
+    System.out.println("Introduce un segundo número para multiplicar: ");
     
     numero2 = entrada.nextInt();
     
