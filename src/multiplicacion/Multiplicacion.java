@@ -38,6 +38,12 @@ public class Multiplicacion {
     
     numero2 = entrada.nextInt();
     
+    // Imprimo el resultado
+    
+    resultado = numero1 * numero2;
+    
+    System.out.println("El resultado de multiplicar "+ numero1 + " * " + numero2 + " es: " + resultado);
+    
   }
   
 }
