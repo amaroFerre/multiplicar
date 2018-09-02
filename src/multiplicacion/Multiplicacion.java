@@ -30,7 +30,7 @@ public class Multiplicacion {
     
     int numero1, numero2, resultado;
     
-    // Pido los número por teclado
+    // Pido los números por teclado
     
     System.out.println("Introduce un número: ");
     
