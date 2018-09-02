@@ -34,6 +34,10 @@ public class Multiplicacion {
     
     System.out.println("Introduce los números para multiplicar: ");
     
+    numero1 = entrada.nextInt();
+    
+    numero2 = entrada.nextInt();
+    
   }
   
 }
