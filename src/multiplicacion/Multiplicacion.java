@@ -22,6 +22,9 @@ public class Multiplicacion {
   public static void main(String[] args) {
     // TODO code application logic here
     
+    // Creo el objeto entrada de la clase Scanner
+    
+    Scanner entrada = new Scanner(System.in);
     
   }
   
